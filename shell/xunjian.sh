@@ -261,7 +261,7 @@ echo $file
 
 echo --------------------随机延迟
 date +%F@%T
-sleep $(($RANDOM%20))
+sleep $(($RANDOM%60))
 date +%F@%T
 echo --------------------随机延迟
 
