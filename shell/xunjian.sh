@@ -245,13 +245,13 @@ find $path/ -mtime +6 -name '*.log' | xargs rm -f
 #sftp配置文件
 #sftp_conf_path=/etc/sftp.conf
 #获取sftp的IP地址
-sftp_ip=44.157.249.33
+sftp_ip=
 #获取sftp的端口
 #sftp_port=1022
 #获取sftp的用户名
-sftp_user=lenovo
+sftp_user=
 #获取sftp的密码
-sftp_password=sdgA#2022
+sftp_password=
 out_path=$path/
 sftp_path=/home/mobaxterm/xunjian/$day
 file=$t.log
