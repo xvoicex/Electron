@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvoicex&layout=compact&hide=vue,css,scss,html,Dockerfile&langs_count=8&show_icons=true&theme=nord)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xvoicex&repo=Microsoft)](https://github.com/xvoicex/Microsoft)
+#[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xvoicex&repo=Microsoft)](https://github.com/xvoicex/Microsoft)
