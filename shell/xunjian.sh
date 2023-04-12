@@ -20,6 +20,9 @@ dq=$(echo 柏科)
 
 
 
+
+
+
 function getSystemStatus(){
 echo ""
 echo ""
